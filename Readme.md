@@ -3,6 +3,7 @@
 **Class 11 Computer Science Project | Academic Year 2026–27**
 # Members : 
   **Javin , Mayank , Shaurya**
+
 An automatic esports tournament simulator built with Python. The program simulates matches, generates scores, determines winners, updates team ratings, manages tournament progress, and announces the champion — without requiring real matches to be played.
 
 ## 🎯 Project Objectives
