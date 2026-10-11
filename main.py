@@ -1,5 +1,10 @@
 print('''
 ##############################################################
-Welcome to Gaming Tournament Simulator
+
+            Welcome to Gaming Tournament Simulator
+
 ##############################################################
 ''')
+
+
+
